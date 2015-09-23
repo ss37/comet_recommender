@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            CoMeT Recommender
 tagline:          ''
-description:      'Chrome extension for content-based recommendation of upcoming talks on CoMeT'
+description:      'Recommendation of upcoming talks on CoMeT'
 url:              http://ss37.github.io/comet_recommender
 baseurl:          /
 
