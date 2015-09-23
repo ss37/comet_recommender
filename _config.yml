@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            CoMeT Recommender
+tagline:          ''
+description:      'Chrome extension for content-based recommendation of upcoming talks on CoMeT'
+url:              http://ss37.github.io/comet_recommender
+baseurl:          /
+
+author:
+  name:           'Shruti Sabusuresh'
+  url:            http://ss37.github.io
+
+paginate:         5
+
+# Custom vars
+version:          2.0
+
+github:
+  repo:           https://github.com/ss37/comet_recommender
